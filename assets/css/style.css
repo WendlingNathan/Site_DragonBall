@@ -1,0 +1,107 @@
+h1#idTitulo {
+    font-weight: bolder;
+    color: orangered;
+    -webkit-text-stroke: 1.5px black;
+}
+
+.vertical {
+    border: 2px solid black;
+    height: 30px;
+    margin-left: 22px;
+}
+
+div#vamos {
+    background: url('https://images7.alphacoders.com/607/thumb-1920-607652.jpg');
+    text-align: center;
+}
+
+a#aCapacitacao, p#pCapacitacao, a#aFeitos, p#pFeitos {
+    color: brown;
+    text-align: center;
+}
+
+a#cabSobre, a#cabCapacitacao, a#cabFeitos, a#cabContato {
+    margin: 100px;
+    color: gray;
+}
+
+.carousel-caption {
+    font-size: 20px;
+    margin: 0 10%;
+    background: rgba(0, 0, 255, 0.4);
+    border: 2px solid yellow;
+}
+
+.carousel-caption > h5 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.jumbotron {
+    background: url(../imgs/imgs.background/f1db50f1d672792ba75629fde2a7fe20.jpg) fixed center;
+    line-height: 40px;
+    margin: 40px 0;
+    background-size: cover;
+    padding: 1rem 2rem 3rem;
+}
+
+.jumbotron img {
+    border: 5px solid #fff;
+    width: 200px;
+    margin: 0rem 0px 0px;
+}
+
+section#transformacoes img {
+    width: 400px;
+    height: 270px;
+}
+
+.jumbotron p {
+    font-size: 22px;
+    color: white;
+    text-shadow: black 0.2em 0.2em 0.2em;
+}
+
+.jumbotron h2 {
+    font-size: 40px;
+    text-shadow: black 0.2em 0.2em 0.2em;
+}
+
+section#transformacoes img {
+    margin-left: 0px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    max-height: 230px;
+    border: 2px solid black;
+}
+section#transformacoes p {
+    text-align: justify;
+    margin-left: 6px;
+}
+
+footer {
+    background: #F0F0E1;
+    padding: 15px 0;
+}
+
+footer i {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+hr { border: 1px solid #000; }
+
+.icones { text-align: right;}
+
+.icones i { font-size: 1.2em; }
+
+.icones a {
+    text-decoration: none;
+    color: #bbb;
+    margin-left: 10px;
+    transition: all 0.5s;
+}
+
+.icones a#Fac:hover { color: blue; }
+.icones a#Ins:hover { color: palevioletred; }
+.icones a#Twi:hover { color: rgb(72, 164, 207); }
