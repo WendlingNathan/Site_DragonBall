@@ -51,6 +51,10 @@ a#cabSobre, a#cabCapacitacao, a#cabFeitos, a#cabContato {
     margin: 0rem 0px 0px;
 }
 
+section#personagens img {
+    height: 210px;
+}
+
 section#transformacoes img {
     width: 400px;
     height: 270px;
